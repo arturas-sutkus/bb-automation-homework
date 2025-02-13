@@ -71,4 +71,4 @@ bb-automation-framework/
 ├── config.properties    # Custom properties
 └── README.md            # This readme file
 ```
-####© 2025 Artūras Sutkus [LinkedIn](https://www.linkedin.com/in/artūras-sutkus-22570379/)
+#### © 2025 *Artūras Sutkus* [LinkedIn](https://www.linkedin.com/in/artūras-sutkus-22570379/)
