@@ -1,0 +1,243 @@
+[
+  {
+    "currency": "Litas",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SUPER_SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 6000,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": -50,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 22.5,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": -100,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 10000000000,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": -100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 10000000000,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 0,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 10000000000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": -15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 40,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15.4,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15.4,
+    "interestRate": -15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15.4,
+    "interestRate": 100000
+  },
+
+  {
+    "currency": null,
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": null,
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": null,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": null,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": null,
+    "amount": 5000,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": null,
+    "monthlyPaymentDay": 15,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": null,
+    "interestRate": 15.1
+  },
+  {
+    "currency": "EUR",
+    "productType": "SMALL_LOAN_EE01",
+    "maturity": 60,
+    "administrationFee": 3.99,
+    "conclusionFee": 100,
+    "amount": 5000,
+    "monthlyPaymentDay": 15.4,
+    "interestRate": null
+  }
+]
